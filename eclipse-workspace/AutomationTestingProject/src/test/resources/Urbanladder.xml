@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="Suite">
+	<test name="Test">
+	<parameter name="browser" value="chrome"/>
+		<classes>
+		    <class name="base.Baseclass1"/>
+			<class name="Module.SmokeTest"/>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

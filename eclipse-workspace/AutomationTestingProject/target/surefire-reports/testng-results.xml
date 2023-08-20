@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-20T11:45:23Z" name="Suite" finished-at="2023-08-20T11:46:30Z" duration-ms="66425">
+    <groups>
+    </groups>
+    <test started-at="2023-08-20T11:45:23Z" name="Test" finished-at="2023-08-20T11:46:30Z" duration-ms="66425">
+      <class name="Module.SmokeTest">
+        <test-method signature="testOne()[pri:1, instance:Module.SmokeTest@5c5eefef]" started-at="2023-08-20T11:45:25Z" name="testOne" finished-at="2023-08-20T11:45:53Z" duration-ms="27234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testTwo()[pri:2, instance:Module.SmokeTest@5c5eefef]" started-at="2023-08-20T11:45:53Z" name="testTwo" finished-at="2023-08-20T11:46:02Z" duration-ms="8907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method signature="testThree()[pri:3, instance:Module.SmokeTest@5c5eefef]" started-at="2023-08-20T11:46:02Z" name="testThree" finished-at="2023-08-20T11:46:30Z" duration-ms="27921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+      </class> <!-- Module.SmokeTest -->
+      <class name="base.Baseclass1">
+        <test-method is-config="true" signature="invokeBrowser(java.lang.String)[pri:0, instance:base.Baseclass1@222545dc]" started-at="2023-08-20T11:45:23Z" name="invokeBrowser" finished-at="2023-08-20T11:45:25Z" duration-ms="2330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:base.Baseclass1@222545dc]" started-at="2023-08-20T11:46:30Z" name="close" finished-at="2023-08-20T11:46:30Z" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- base.Baseclass1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

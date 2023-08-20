@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Library/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Library Selenium/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Backup/Downloads/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aakash/Downloads/extentreports-3.1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
